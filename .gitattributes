@@ -1,0 +1,4 @@
+kassandra/self_census/icons/* filter=lfs diff=lfs merge=lfs -text
+kassandra/features_creation/data/x_train.csv filter=lfs diff=lfs merge=lfs -text
+kassandra/drivers/instantclient_19_9/* filter=lfs diff=lfs merge=lfs -text
+train/data/* filter=lfs diff=lfs merge=lfs -text
